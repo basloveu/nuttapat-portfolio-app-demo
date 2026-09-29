@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/nuttapat-portfolio-app-demo/sw.js', { scope: '/nuttapat-portfolio-app-demo/' })})}
