@@ -1,0 +1,1 @@
+import{P as e}from"./ProjectPage-BJlitR9Q.js";import{h as o,o as r}from"./index-DtwiM_EP.js";import"./projects-BMIF35Yu.js";const _={__name:"GenAiView",setup(t){return(a,c)=>(r(),o(e,{"category-key":"genai"}))}};export{_ as default};

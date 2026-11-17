@@ -1,1 +1,0 @@
-import{P as e}from"./ProjectPage-CFjFD1Gx.js";import{h as t,o}from"./index-BcmxaZuZ.js";import"./projects-Bee0dZFw.js";const m={__name:"TestView",setup(r){return(a,c)=>(o(),t(e,{"category-key":"test"}))}};export{m as default};

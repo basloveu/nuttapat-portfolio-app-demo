@@ -1,0 +1,1 @@
+import{P as t}from"./ProjectPage-BJlitR9Q.js";import{h as e,o}from"./index-DtwiM_EP.js";import"./projects-BMIF35Yu.js";const m={__name:"TttbbView",setup(r){return(a,c)=>(o(),e(t,{"category-key":"tttbb"}))}};export{m as default};
